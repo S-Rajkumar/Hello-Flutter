@@ -1,5 +1,5 @@
-name: flutter_learn
-description: Learning Flutter Framework
+name: hello_flutter
+description: Hello Flutter
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
@@ -27,7 +27,7 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.0
+  cupertino_icons: ^1.0.2
 
 dev_dependencies:
   flutter_test:
@@ -43,11 +43,12 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-
-  # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - lib/projects/json_image_list_and_grid_view/sticker_packs/1/
+    - lib/projects/json_image_list_and_grid_view/sticker_packs/2/
+    - lib/projects/json_image_list_and_grid_view/sticker_packs/3/
+    - lib/projects/json_image_list_and_grid_view/sticker_packs/4/
+    - lib/projects/json_image_list_and_grid_view/sticker_packs/sticker_packs.json
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

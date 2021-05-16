@@ -1,0 +1,418 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Cuppy",
+      "publisher": "Rajkumar",
+      "tray_image_file": "tray_Cuppy.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "privacy_policy_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "license_agreement_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "stickers": [
+        {
+          "image_file": "01_Cuppy_smile.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "02_Cuppy_lol.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "03_Cuppy_rofl.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "04_Cuppy_sad.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "05_Cuppy_cry.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "06_Cuppy_love.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "07_Cuppy_hate.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "08_Cuppy_lovewithmug.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Doge the Dog",
+      "publisher": "Rajkumar",
+      "tray_image_file": "tray-icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "privacy_policy_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "license_agreement_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "stickers": [
+        {
+          "image_file": "doge-the-dog-1.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-2.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-3.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-4.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-5.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-6.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-7.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-8.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-9.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-10.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-11.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-12.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-13.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-14.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-15.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "doge-the-dog-16.webp",
+          "emojis": [
+            "🐶"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Cat Meow",
+      "publisher": "Rajkumar",
+      "tray_image_file": "tray-icon.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "privacy_policy_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "license_agreement_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "stickers": [
+        {
+          "image_file": "cats-1.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "cats-2.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-3.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-4.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-5.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-6.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-7.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-8.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-9.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-10.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-11.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-12.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-13.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-14.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-15.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "cats-16.webp",
+          "emojis": [
+            "🐶"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Dragon Baby",
+      "publisher": "Rajkumar",
+      "tray_image_file": "tray-icon.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "privacy_policy_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "license_agreement_website": "https://github.com/vincekruger/flutter_whatsapp_stickers",
+      "stickers": [
+        {
+          "image_file": "dragon-1.webp",
+          "emojis": [
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "dragon-2.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-3.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-4.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-5.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-6.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-7.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-8.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-9.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-10.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-11.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-12.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-13.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-14.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-15.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-16.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-17.webp",
+          "emojis": [
+            "🐶"
+          ]
+        },
+        {
+          "image_file": "dragon-18.webp",
+          "emojis": [
+            "🐶"
+          ]
+        }
+      ]
+    }
+  ]
+}

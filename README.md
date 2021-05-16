@@ -1,6 +1,6 @@
-# flutter_learn
+# hello_flutter
 
-Learning Flutter Framework
+Hello Flutter
 
 ## Getting Started
 
